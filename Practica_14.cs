@@ -9,7 +9,7 @@ class Program
         do
         {
             // Mostrar el menú de opciones
-            Console.WriteLine("Menu:");
+            Console.WriteLine("\nMenu:");
             Console.WriteLine("1. Sumar números pares hasta 75.");
             Console.WriteLine("2. Encontrar el número más grande en una lista.");
             Console.WriteLine("3. Generar una tabla de multiplicar.");
